@@ -1,0 +1,14 @@
+# Environment variables - NEVER push these
+.env
+*.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
