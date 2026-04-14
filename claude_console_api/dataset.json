@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Write a Python function that extracts all EC2 instance IDs and their associated security group names from an AWS describe_instances API response",
+        "format": "python"
+    },
+    {
+        "task": "Create a JSON policy document for an AWS IAM role that grants read-only access to a specific S3 bucket and its objects",
+        "format": "json"
+    },
+    {
+        "task": "Write a regex pattern that matches valid AWS ARN (Amazon Resource Name) formats for any AWS service",
+        "format": "regex"
+    }
+]
