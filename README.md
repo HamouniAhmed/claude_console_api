@@ -7,6 +7,9 @@ Personal learning repo following the Anthropic course **"Building with the Claud
 The `notebooks/` folder contains all hands-on work from the course :
 code, experiments, and notes organized by topic as I progress.
 
+**`cli_project/`** — RAG (Retrieval-Augmented Generation) project from the course module,
+a CLI-based implementation.
+
 ## Course
 [Building with the Claude API](https://anthropic.com) — Anthropic
 

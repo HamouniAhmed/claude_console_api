@@ -1,4 +1,4 @@
-# Environment variables - NEVER push these
+# Environment variables 
 .env
 *.env
 
